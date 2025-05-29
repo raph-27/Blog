@@ -1,5 +1,5 @@
 <h6> AWS Solutions Architect - Associate
-<img src="/assets/images/AWS SAA.png"  width="500"/> <br>
+<img src="../assets/images/AWS SAA.png"  width="500"/> <br>
 <p>Right now, I am dedicating a significant amount of time and effort to studying for multiple important certifications and projects that will greatly enhance my skills and career prospects. I am currently preparing for the AWS Solutions Architect Associate certification, which involves mastering cloud architecture best practices, designing scalable and cost-efficient AWS solutions, and gaining hands-on experience with a wide range of AWS services.
 <br>
 <br>
