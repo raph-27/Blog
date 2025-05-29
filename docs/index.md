@@ -1,4 +1,4 @@
-I'm Raphael De Luis, an IT Enthusiast with hands-on experience in network engineering, network design, system administration, and technical support. I hold a BS in Information Technology from Quezon City University and have worked in Trailblaizers Solutions Inc., supporting over 200 clients, Network Designing and Implementing scalable IT solutions. I’m certified in AWS Cloud, Fortinet, Ruijie, and more, and actively build my skills through a home lab running Proxmox, NAS, and enterprise simulations.
+I'm Raphael De Luis, an IT Enthusiast with hands-on experience in network engineering, network design, system administration, and technical support. I hold a BS in Information Technology from Quezon City University and have been absorbed as an intern and started working in Trailblaizers Solutions Inc., supporting over 200 clients, Network Designing and Implementing scalable IT solutions. I’m certified in AWS Cloud, Fortinet, Ruijie, and more, and actively build my skills through a home lab running Proxmox, NAS, and enterprise simulations.
 
 
 My Certifications
