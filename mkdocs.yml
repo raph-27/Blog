@@ -1,0 +1,53 @@
+site_name: Raphael De Luis
+theme:
+    name: material
+    palette:
+      primary: deep purple 
+      scheme: slate
+    features:
+      -content.code.annotate
+      -content.code.copy
+      - content.tabs.link
+      - announce.dismiss
+      - navigation.indexes 
+      - navigation.sections 
+      - navigation.tabs 
+    font:
+      code: Fira Code
+      text: Roboto
+    markdown_extensions:
+      - codehilite
+      - admonition
+      - toc:
+          permalink: true
+      - pymdownx.superfences
+      - pymdownx.highlight
+      - pymdownx.inlinehilite
+      - pymdownx.keys
+    nav:
+      - Home: index.md
+      - Certifications:
+        - AWS Cloud Practitioner: Certifications/AWS Cloud Practitioner.md
+        - Fortinet: Certifications/Fortinet.md
+        - Six Sigma: Certifications/Six Sigma.md
+        - TP-Link: Certifications/TP-Link.md 
+      - Projects:
+        - Home Lab: Projects/Home Lab.md
+        - Personal Website: Projects/Personal Website.md
+        - Raspberry Pi: Projects/Raspberry Pi.md
+      - My Next Goal: My next goal.md
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/raphael-de-luis-b53a0320b/
+      name: Raphael De Luis
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/rappyL
+      name: Raphael De Luis
+
+
+
