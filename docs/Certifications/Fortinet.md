@@ -3,7 +3,7 @@
 
 
 Fortinet Cybersecurity Associate <br>
-  <img src="/assets/images/Fortinet.png"  width="2000"/>
+  <img src="../../assets/images/Fortinet.png"  width="2000"/>
 
 
 
