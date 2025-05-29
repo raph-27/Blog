@@ -37,7 +37,8 @@ theme:
         - Raspberry Pi: Projects/Raspberry Pi.md
         - AWS Project:
             Creating Instance Using TerraForm.md
-      - My Next Goal: My next goal.md
+            Migrating EBS to another AZ.md
+      - My Next goal: My next goal.md
 
 
 extra_css:
