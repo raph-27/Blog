@@ -1,5 +1,5 @@
 First We need to get Access Key and the Private key of our AWS Account
-<img src="/../../assets/BLOGS IMAGES/Creating Instances Using Terraform/aws configure.png"  width="800"/> <br><br>
+<img src="../../../assets/BLOGS IMAGES/Creating Instances Using Terraform/aws configure.png"  width="800"/> <br><br>
 Next is need to create a directory for the config file of terraform <br>
 <img src="/../../assets/BLOGS IMAGES/Creating Instances Using Terraform/create folder.png"  width="500"/> <br><br>
 after that, we need create a config file and then editing it base on our preferences <br>
