@@ -3,7 +3,7 @@ First We need to get Access Key and the Private key of our AWS Account
 Next is need to create a directory for the config file of terraform <br>
 <img src="../../../assets/BLOGS IMAGES/Creating Instances Using Terraform/create folder.png"  width="500"/> <br><br>
 after that, we need create a config file and then editing it base on our preferences <br>
-<img src="../../../assets/BLOGS IMAGES/Creating Instances Using Terraform/editing maintf.png"  width="500"/> <br><br>
+<img src="../../../assets/BLOGS IMAGES/Creating Instances Using Terraform/Editing maintf.png"  width="500"/> <br><br>
 we need to impement `terraform init` in our directory <br>
 <img src="../../../assets/BLOGS IMAGES/Creating Instances Using Terraform/init.png"  width="800"/> <br><br>
 after all of that if we want to, we can check the syntax and internal consistency of your configuration files using `Terraform Validate`. <br>
@@ -16,6 +16,6 @@ we can also delete the instance using terraform by using `Terraform Destroy`<br>
 <img src="../../../assets/BLOGS IMAGES/Creating Instances Using Terraform/destory 1.png"  width="1200"/> 
 <img src="../../../assets/BLOGS IMAGES/Creating Instances Using Terraform/destory 2.png"  width="1200"/> <br><br>
 as we can see, the instance is terminated
-<img src="../../../assets/BLOGS IMAGES/Creating Instances Using Terraform/terminated.png"  width="1200"/> <br><br>
+<img src="../../../assets/BLOGS IMAGES/Creating Instances Using Terraform/Terminated.png"  width="1200"/> <br><br>
 
 
