@@ -2,34 +2,48 @@ site_name: Raphael De Luis
 theme:
     name: material
     palette:
-      # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
+      - media: "(prefers-color-scheme)"
+        toggle:
+          icon: material/link
+          name: Switch to light mode
+      - media: "(prefers-color-scheme: light)"
+        scheme: default
+        primary: indigo
+        accent: indigo
+        toggle:
+          icon: material/toggle-switch
+          name: Switch to dark mode
+      - media: "(prefers-color-scheme: dark)"
+        scheme: slate
+        primary: black
+        accent: indigo
+        toggle:
+          icon: material/toggle-switch-off
+          name: Switch to system preference
 
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default 
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to system preference
+    font:
+      text: Roboto
+      code: Roboto Mono
+    icon:
+      logo: logo
         
     features:
       -content.code.annotate
       -content.code.copy
-      - content.tabs.link
-      - announce.dismiss
-      - navigation.indexes 
-      - navigation.sections 
-      - navigation.tabs 
+      -content.tabs.link
+      -announce.dismiss
+      -navigation.indexes 
+      -navigation.sections 
+      -navigation.tabs 
+      -header.autohide  
+      -navigation.footer   
+      -navigation.top 
+      -navigation.tracking
+      -search.highlight 
+      -search.share
+      -search.suggest
+
+
     font:
       code: Fira Code
       text: Roboto
