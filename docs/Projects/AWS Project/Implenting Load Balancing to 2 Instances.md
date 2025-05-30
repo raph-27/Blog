@@ -1,3 +1,5 @@
+<h2 style="text-align: center;">Example Architectural Diagram
+<img src="../../../assets/ALB/Example Architectural Diagram.png"  width="1000" height="500"/> <br><br>
 First we need to create 2 instances that we want to implent Application Load Balancer
 <img src="../../../assets/ALB/Creating Instance.png " width="1000" height="500"/> <br><br>
 I added some basic Scripts to create a webserver and an 'echo' to identify what IP address of the instance are using

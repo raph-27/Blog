@@ -1,3 +1,5 @@
+<h2 style="text-align: center;">Example Architectural Diagram
+<img src="../../../assets/Snapshot Migration/Example Architectural Diagram.png"  width="1000" height="500"/> <br><br>
 First we need to create a volume that we want to migrate to another region
 <img src="../../../assets/Snapshot Migration/Create Volume.png"  width="1000" height="500"/> <br><br>
 select the volume that we want to migrate and `Create Snapshot`
