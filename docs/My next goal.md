@@ -1,4 +1,4 @@
-# <h1 style="text-align: center;"> My Goals!
+# <h1 style="text-align: center;"> My Goals
 
 ## <h1 style="text-align: center;"> AWS Solutions Architect - Associate </h6>
 <div style="text-align: center;">
