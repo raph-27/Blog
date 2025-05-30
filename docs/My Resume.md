@@ -5,26 +5,29 @@
 
 ## 🧑‍💻 Work Experience
 
-### Jr. Solutions Architect  
-**Trailblaizers Solutions Inc. (Formerly Philsource Ventures Group Inc)**  
-📅 Oct 2023 – Jul 2024  
+Jr. Solutions Architect  
+Trailblaizers Solutions Inc. (Formerly Known Philsource Ventures Group Inc)
+
+- 📅 Oct 2023 – Jul 2024  
 - Designed and implemented scalable, cost-effective solutions aligned with business goals  
 - Led prototyping, product demos, system integrations, and documentation  
 - Specialized in deploying networks, CCTV, and IT infrastructure  
 - Provided pre-sales and post-sales support via consultations and remote sessions  
 - Maintained systems and networks with ongoing technical support  
 
-### IT Support Staff (Part-Time, Absorbed from Internship)  
-**Philsource Ventures Group Inc (PVGI)**  
-📅 Jul 2022 – Jul 2024  
+IT Support Staff (Part-Time, Absorbed from Internship)  
+Philsource Ventures Group Inc (PVGI)
+
+- 📅 Jul 2022 – Jul 2024  
 - Supported 200+ clients via calls and remote sessions  
 - Assured hardware quality: routers, switches, access points, CCTV  
 - Managed ERP backups using Windows Server 2008 and Hyper-V  
 - Ensured backup reliability and business continuity through monitoring  
 
-### Assistant Systems/Network Engineer (Project-Based)  
-**Trailblaizers Solutions Inc.**  
-📅 Jul 2022 – Present  
+Assistant Systems/Network Engineer (Project-Based)  
+Trailblaizers Solutions Inc.**  
+
+- 📅 Jul 2022 – Present  
 - Designed multi-million peso network infrastructure solutions  
 - Delivered end-to-end IT services: consult, install, configure, support  
 - Handled diverse troubleshooting requests (network, system, hardware)  

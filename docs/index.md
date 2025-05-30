@@ -1,3 +1,5 @@
+# <h1 style="text-align: center;"> Who Am I? </h1>
+
 I'm Raphael De Luis, an IT enthusiast with hands-on experience in network engineering, system administration, and technical support, now actively focusing on cloud technologies. I earned my BS in Information Technology from Quezon City University and began my career at Trailblaizers Solutions Inc., where I transitioned from intern to full-time staff. In this role, I’ve supported over 200 clients and contributed to the design and deployment of scalable IT and network solutions.
 
 I hold certifications in AWS Cloud, Fortinet, Ruijie, and more. To continuously build my expertise, I maintain a home lab running Proxmox, NAS, and cloud-integrated enterprise simulations. My current focus is on cloud infrastructure, hybrid networking, and automation, as I work toward designing secure, scalable, and efficient cloud-based environments.

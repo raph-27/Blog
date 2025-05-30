@@ -1,6 +1,6 @@
-<h1> Here are all my Certifications<h1>
+## <h1 style="text-align: center; "> Six Sigma - White Belt </h1>
 
-Six Sigma - White Belt <br>
+
   <img src="../../assets/images/White Belt.png"  width="2000"/>
 
 

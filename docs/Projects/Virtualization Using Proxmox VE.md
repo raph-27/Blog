@@ -6,6 +6,7 @@ Ive been diving deeper into virtualization by setting up my own home lab using m
 
 Proxmox is a type 1 hypervisor and Proxmox also has built-in tools to manage these virtual computers, take backups, and even set up special storage and networking configurations. It's often used in data centers and IT labs. Proxmox VE (Virtual Environment) is a powerful open-source platform for virtualization, allowing you to run multiple virtual machines (VMs) and containers on a single physical server.
 
+---
 
  <h1 style="text-align: center; ">The Hardware </h1>
 
@@ -13,12 +14,16 @@ Proxmox is a type 1 hypervisor and Proxmox also has built-in tools to manage the
 This is my refurbished PC that I got thru buy and sell
 <img src="../../assets/LabsPics/ProxHardware.jpg"  width="2000"/> <br>
 
+---
+
 
 <h1 style="text-align: center; "> This the Web GUI of the Server </h1>
 
 
 This is where you can manage all the resources of your environment, including physical nodes, virtual machines, containers, storage devices, and network configurations. The Proxmox Web GUI provides a comprehensive and intuitive platform to monitor system performance, allocate hardware resources, configure high availability and clustering, and manage user permissions and backups.
 <img src="../../assets/LabsPics/ProxGUI.jpg"  width="2000"/> <br>
+
+---
 
 
 <h1 style="text-align: center; "> ADDS with Windows Server and Client </h1>
