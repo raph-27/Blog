@@ -2,7 +2,7 @@ I'm Raphael De Luis, an IT enthusiast with hands-on experience in network engine
 
 I hold certifications in AWS Cloud, Fortinet, Ruijie, and more. To continuously build my expertise, I maintain a home lab running Proxmox, NAS, and cloud-integrated enterprise simulations. My current focus is on cloud infrastructure, hybrid networking, and automation, as I work toward designing secure, scalable, and efficient cloud-based environments.
 
-My Certifications
+<h1 style="text-align: center;">My Certifications
 <table>
   <tr>
     <td style="text-align:center;">

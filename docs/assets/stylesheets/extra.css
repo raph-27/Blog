@@ -14,6 +14,13 @@
   color: #ffffff; /* example: blue */
 }
 
+.no-custom-css {
+  all: unset;
+  color: initial;
+  font-family: initial;
+  text-align: unset;
+}
+
 /* Apply Fira Code to code elements */
 .md-typeset code,
 .md-typeset pre {
