@@ -10,7 +10,7 @@
 <img src="/assets/images/Terraform.png"  width="500"/> <br>
 <p> Alongside this, I am diving deep into Terraform, focusing on infrastructure as code principles to automate and manage cloud resources effectively, ensuring that I can build repeatable and scalable infrastructure deployments.
 <h6> Azure Fundamentals AZ-900
-<img src="/assets/images/Az-900.png"  width="550"/> <br>
+<img src="/assets/images/AZ-900.png"  width="550"/> <br>
 <p> In addition to my ongoing studies, I am also going to learn Microsoft Azure Fundamentals (AZ-900) with a particular focus on cloud governance and compliance. This certification helps build a strong foundational understanding of core Azure services, pricing models, and support plans, but more importantly, it covers essential topics such as resource management, role-based access control (RBAC), policies, blueprints, and cost management
 <h6> GCP Cloud Digital Leader certification
 <img src="/assets/images/GCP.png"  width="500"/> <br>
