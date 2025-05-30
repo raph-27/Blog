@@ -32,9 +32,8 @@ theme:
         - Six Sigma: Certifications/Six Sigma.md
         - TP-Link: Certifications/TP-Link.md 
       - Projects:
-        - Home Lab: Projects/Home Lab.md
-        - Personal Website: Projects/Personal Website.md
-        - Raspberry Pi: Projects/Raspberry Pi.md
+        - Virtualization: Projects/Virtualization Using Proxmox VE
+        - Basic Containerization: Projects/Basic Containerization.md
         - AWS Project:
             Creating Instance Using TerraForm.md
             Migrating EBS to another AZ.md
