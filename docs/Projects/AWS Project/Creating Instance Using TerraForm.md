@@ -4,7 +4,7 @@ Next is need to create a directory for the config file of terraform <br>
 <img src="../../../assets/BLOGS IMAGES/Creating Instances Using Terraform/create folder.png"  width="500"/> <br><br>
 after that, we need create a config file and then editing it base on our preferences <br>
 <img src="../../../assets/BLOGS IMAGES/Creating Instances Using Terraform/Editing maintf.png"  width="500"/> <br><br>
-we need to impement `terraform init` in our directory <br>
+When you create a new configuration — or check out an existing configuration from version control — you need to initialize the directory with `Terraform init` <br>
 <img src="../../../assets/BLOGS IMAGES/Creating Instances Using Terraform/init.png"  width="800"/> <br><br>
 after all of that if we want to, we can check the syntax and internal consistency of your configuration files using `Terraform Validate`. <br>
 <img src="../../../assets/BLOGS IMAGES/Creating Instances Using Terraform/validate.png"  width="1000"/> <br><br>
