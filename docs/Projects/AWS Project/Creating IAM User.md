@@ -49,7 +49,7 @@ Retrieve access keys for use and make sure to save it, because if we forgot eith
 ---
 
 Check the CLI in our machine and check if the IAM User can access the AWS CLI
-<img style src="../../../assets/IAM/.png"  width="1000"/> <br><br></img>
+<img style src="../../../assets/IAM/12.png"  width="1000"/> <br><br></img>
 ---
 
 ## <h1 style="text-align: center;">Delete IAM User </h1>
