@@ -67,9 +67,11 @@ theme:
         - Virtualization: Projects/Virtualization Using Proxmox VE
         - Basic Containerization: Projects/Basic Containerization.md
         - AWS Project:
+            Creating IAM User.md
             Creating Instance Using TerraForm.md
             Migrating EBS to another AZ.md
             Implenting Load Balancing.md
+            Implementing Auto Scaling Group.md
       - My Next goal: My next goal.md
       - Resume: My Resume.md
       - 
