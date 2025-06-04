@@ -66,4 +66,4 @@ If we go to the activity tab, we can see that the Auto-Scaling Group automatical
 ---
 
 If we look in to our Instance Tab, we can already see that the created instance is running
-<img src="../../../assets/ASG/18.png"  width="1000" height="500"/> <br><br>
+<img src="../../../assets/ASG/18.png"  width="1000" height="1000"/> <br><br>
