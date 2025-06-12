@@ -1,3 +1,6 @@
+<div style="text-align: center;">
+<img src="assets/images/DP.jpg" alt="Image 1" style="border-radius: 50%; width: 250px; height: 250px;" /><br/>
+</div>
 # <h1 style="text-align: center;"> Who Am I? </h1>
 
 I'm Raphael De Luis, an IT enthusiast with practical experience in network engineering, system administration, and technical support, now actively focused on cloud technologies. I earned my Bachelor of Science in Information Technology from Quezon City University, and began my career at Trailblaizers Solutions Inc., where I transitioned from intern to full-time staff. There, I supported over 200 clients and contributed to the design and deployment of scalable IT and network solutions.
