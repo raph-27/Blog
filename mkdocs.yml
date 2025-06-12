@@ -78,7 +78,7 @@ theme:
 
 
 extra_css:
- 
+      - assets/stylesheets/extra.css
 
 extra:
   social:

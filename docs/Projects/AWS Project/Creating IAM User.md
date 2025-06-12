@@ -3,13 +3,13 @@
 ---
 First we need to go services and search IAMFirst we need to go services and search IAM
 <div style="text-align: center;">
-<img src="../../../assets/IAM/1.png"  width="1000"/> <br><br></img></div>
+<img src="../../../assets/IAM/1.png"> <br><br></img></div>
 ---
 
 
 Here we can see the list of IAM user <br>
 <div style="text-align: center;">
-<img src="../../../assets/IAM/2.png"  width="1000"/> <br><br></img></div>
+<img src="../../../assets/IAM/2.png"/> <br><br></img></div>
 ---
 
 

@@ -1,8 +1,10 @@
 # <h1 style="text-align: center;"> Who Am I? </h1>
 
-I'm Raphael De Luis, an IT enthusiast with hands-on experience in network engineering, system administration, and technical support, now actively focusing on cloud technologies. I earned my BS in Information Technology from Quezon City University and began my career at Trailblaizers Solutions Inc., where I transitioned from intern to full-time staff. In this role, I’ve supported over 200 clients and contributed to the design and deployment of scalable IT and network solutions.
+I'm Raphael De Luis, an IT enthusiast with practical experience in network engineering, system administration, and technical support, now actively focused on cloud technologies. I earned my Bachelor of Science in Information Technology from Quezon City University, and began my career at Trailblaizers Solutions Inc., where I transitioned from intern to full-time staff. There, I supported over 200 clients and contributed to the design and deployment of scalable IT and network solutions.
 
-I hold certifications in AWS Cloud, Fortinet, Ruijie, and more. To continuously build my expertise, I maintain a home lab running Proxmox, NAS, and cloud-integrated enterprise simulations. My current focus is on cloud infrastructure, hybrid networking, and automation, as I work toward designing secure, scalable, and efficient cloud-based environments.
+To continuously expand my expertise, I’ve earned certifications in AWS Cloud, Fortinet, Ruijie, and more. I maintain a dedicated home lab running Proxmox, NAS, and cloud-integrated enterprise simulations, where I explore concepts such as hybrid networking, infrastructure automation, and cloud security.
+
+What drives me is the opportunity to be part of a team that builds reliable, scalable, and innovative solutions in the cloud. I am energized by the challenges and limitless potential of cloud computing and committed to supporting organizations in harnessing its full capabilities.
 
 <h1 style="text-align: center;">My Certifications
 <table>
@@ -42,3 +44,5 @@ I hold certifications in AWS Cloud, Fortinet, Ruijie, and more. To continuously 
     </td>
   </tr>
 </table>
+
+

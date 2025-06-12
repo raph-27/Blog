@@ -6,7 +6,8 @@ OpenMediaVault (OMV) is a free, open-source NAS (Network Attached Storage) opera
 ---
 
 <h1 style="text-align: center;"> The Hardware </h1>
-<img src="../../assets/LabsPics/HardwarePi.jpg"  width="2000"/> <br>
+
+<img src="../../assets/LabsPics/HardwarePi.jpg" /> <br> </img>
 
 ---
 
