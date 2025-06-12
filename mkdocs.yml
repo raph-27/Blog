@@ -44,7 +44,7 @@ theme:
       -search.suggest
 
 
-    font :
+    font:
       code: Fira Code
       text: Roboto
     markdown_extensions:
